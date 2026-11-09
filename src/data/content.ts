@@ -15,7 +15,7 @@ export const config = {
   location: 'Aberdeen, UK',
   workModes: 'Remote worldwide',
 
-  email: 'Maria7Batool@gmail.com',
+  email: 'mariabatool869@gmail.com',
   // SWAP: Calendly link. While empty ("email only"), booking buttons open an email.
   bookingUrl: '',
   // SWAP: Maria's CV PDF → /public/cv/Maria-Batool-CV.pdf, then set this to that path.
@@ -335,7 +335,7 @@ export const askQA: { q: string; a: string }[] = [
   { q: 'What AI projects has she built?', a: 'NovaShield (explainable intrusion detection research), A²M Tax Count (citation-backed AI tax assistant), Job Finder AI Agent, Automated Resume Screener and other Python automation tools.' },
   { q: 'Is she available for work?', a: 'Maria is exploring cybersecurity, security automation, Python, AI engineering and full-stack opportunities. Reach her directly through the contact section.' },
   { q: 'What degrees does she hold?', a: 'MSc Cyber Security (Robert Gordon University), MS Computer Science (NCBA&E) and Master in Technology (University of Gujrat).' },
-  { q: 'How can I contact her?', a: 'Email: Maria7Batool@gmail.com or LinkedIn: linkedin.com/in/mariabatool7' },
+  { q: 'How can I contact her?', a: 'Email: mariabatool869@gmail.com or LinkedIn: linkedin.com/in/mariabatool7' },
 ]
 
 /** Section headings and short copy (kept here so each client is a content swap). */
