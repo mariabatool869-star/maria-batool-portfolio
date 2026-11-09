@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# SWAP: replace with the live domain once known.
+Sitemap: https://maria-batool-portfolio.vercel.app/sitemap.xml
